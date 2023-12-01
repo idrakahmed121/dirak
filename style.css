@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-image: url(https://img2.goodfon.com/wallpaper/nbig/3/e8/tekstura-cvet-fon-1926.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top-div{
+    height: 30vh;
+    width: 20vw;
+    object-fit: cover;
+    object-position: center;
+}
